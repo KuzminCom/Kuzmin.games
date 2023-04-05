@@ -1,2 +1,2 @@
 # vladi.su
-Site code.
+www.vladi.su
