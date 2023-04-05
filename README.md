@@ -1,2 +1,1 @@
-# vladi.su
-www.vladi.su
+# www.vladi.su
